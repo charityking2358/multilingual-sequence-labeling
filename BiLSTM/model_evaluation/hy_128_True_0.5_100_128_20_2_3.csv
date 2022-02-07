@@ -1,0 +1,2 @@
+language,batch_size,bidirectional,dropout,embedding_dim,hidden_dim,max_epoch,min_freq,n_layers,test_loss,test_accuracy,trainable_parameters
+hy,128,True,0.5,100,128,20,2,3,0.5233639578024546,0.8101045296167247,1420631
